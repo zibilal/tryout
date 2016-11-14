@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;tryout&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../duplicate1" />
+      <root url="file://$PROJECT_DIR$/../../../src" />
+      <root url="file://$PROJECT_DIR$/../../../shuffler" />
+      <root url="file://$PROJECT_DIR$/../../../hello" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../pigame" />
+      <root url="file://$PROJECT_DIR$/../../../upandrunning" />
+      <root url="file://$PROJECT_DIR$/../../../learnconcurrency" />
+      <root url="file://$PROJECT_DIR$/../../../myvertex" />
+      <root url="file://$PROJECT_DIR$/../../../learnconcurrency3" />
+      <root url="file://$PROJECT_DIR$/../../../learnconcurrency2" />
+      <root url="file://$PROJECT_DIR$/../../../conpatt" />
+      <root url="file://$PROJECT_DIR$/../../../workingwithfiles" />
+      <root url="file://$PROJECT_DIR$/../../../funding2" />
+      <root url="file://$PROJECT_DIR$/../../../server1" />
+      <root url="file://$PROJECT_DIR$/../../../learnvars" />
+      <root url="file://$PROJECT_DIR$/../../../echo4" />
+      <root url="file://$PROJECT_DIR$/../../../buffchannel1" />
+      <root url="file://$PROJECT_DIR$/../../../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../fetchurl2" />
+      <root url="file://$PROJECT_DIR$/../../../fetchurl" />
+      <root url="file://$PROJECT_DIR$/../../../rangenclose" />
+      <root url="file://$PROJECT_DIR$/../../../recursion1" />
+      <root url="file://$PROJECT_DIR$/../../../tour2go" />
+      <root url="file://$PROJECT_DIR$/../../../funding" />
+      <root url="file://$PROJECT_DIR$/../../../learngoroutine" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../learngo" />
+      <root url="file://$PROJECT_DIR$/../../../lissajous" />
+      <root url="file://$PROJECT_DIR$/../../../duplicate2" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../duplicate1" />
+      <root url="file://$PROJECT_DIR$/../../../src" />
+      <root url="file://$PROJECT_DIR$/../../../shuffler" />
+      <root url="file://$PROJECT_DIR$/../../../hello" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../pigame" />
+      <root url="file://$PROJECT_DIR$/../../../upandrunning" />
+      <root url="file://$PROJECT_DIR$/../../../learnconcurrency" />
+      <root url="file://$PROJECT_DIR$/../../../myvertex" />
+      <root url="file://$PROJECT_DIR$/../../../learnconcurrency3" />
+      <root url="file://$PROJECT_DIR$/../../../learnconcurrency2" />
+      <root url="file://$PROJECT_DIR$/../../../conpatt" />
+      <root url="file://$PROJECT_DIR$/../../../workingwithfiles" />
+      <root url="file://$PROJECT_DIR$/../../../funding2" />
+      <root url="file://$PROJECT_DIR$/../../../server1" />
+      <root url="file://$PROJECT_DIR$/../../../learnvars" />
+      <root url="file://$PROJECT_DIR$/../../../echo4" />
+      <root url="file://$PROJECT_DIR$/../../../buffchannel1" />
+      <root url="file://$PROJECT_DIR$/../../../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../fetchurl2" />
+      <root url="file://$PROJECT_DIR$/../../../fetchurl" />
+      <root url="file://$PROJECT_DIR$/../../../rangenclose" />
+      <root url="file://$PROJECT_DIR$/../../../recursion1" />
+      <root url="file://$PROJECT_DIR$/../../../tour2go" />
+      <root url="file://$PROJECT_DIR$/../../../funding" />
+      <root url="file://$PROJECT_DIR$/../../../learngoroutine" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../learngo" />
+      <root url="file://$PROJECT_DIR$/../../../lissajous" />
+      <root url="file://$PROJECT_DIR$/../../../duplicate2" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

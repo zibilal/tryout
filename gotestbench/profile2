@@ -1,0 +1,3 @@
+BenchmarkHandleStructAdd-4   	  200000	      5980 ns/op	    1384 B/op	      19 allocs/op
+PASS
+ok  	github.com/zibilal/tryout/gotestbench	1.270s
